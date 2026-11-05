@@ -1,0 +1,19 @@
+{
+  "parent": "hardest:main/root",
+  "display": {
+    "icon": {
+      "item": "minecraft:diamond"
+    },
+    "title": "Поймал беглеца",
+    "description": "Догони и сломай убегающий блок",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

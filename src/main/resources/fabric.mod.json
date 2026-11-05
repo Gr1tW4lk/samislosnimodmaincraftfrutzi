@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "hardest",
+  "version": "${version}",
+  "name": "Самый сложный мод",
+  "description": "Обычное прохождение майнкрафта до Эндер-дракона. Только всё хочет тебя убить, причём максимально абсурдно.",
+  "authors": ["Gr1tW4lk", "Claude"],
+  "contact": {
+    "sources": "https://github.com/Gr1tW4lk/samislosnimodmaincraftfrutzi"
+  },
+  "license": "MIT",
+  "icon": "assets/hardest/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.hardest.HardestMod"],
+    "client": ["com.hardest.client.HardestClient"]
+  },
+  "mixins": [
+    "hardest.mixins.json",
+    {
+      "config": "hardest.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}

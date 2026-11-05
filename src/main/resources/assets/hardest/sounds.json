@@ -1,0 +1,539 @@
+{
+  "voice.ad_course": {
+    "sounds": [
+      {
+        "name": "hardest:voice/ad_course"
+      }
+    ]
+  },
+  "voice.ad_credit": {
+    "sounds": [
+      {
+        "name": "hardest:voice/ad_credit"
+      }
+    ]
+  },
+  "voice.ad_dirt": {
+    "sounds": [
+      {
+        "name": "hardest:voice/ad_dirt"
+      }
+    ]
+  },
+  "voice.ad_goose": {
+    "sounds": [
+      {
+        "name": "hardest:voice/ad_goose"
+      }
+    ]
+  },
+  "voice.ad_premium": {
+    "sounds": [
+      {
+        "name": "hardest:voice/ad_premium"
+      }
+    ]
+  },
+  "voice.ad_slipper": {
+    "sounds": [
+      {
+        "name": "hardest:voice/ad_slipper"
+      }
+    ]
+  },
+  "voice.block1": {
+    "sounds": [
+      {
+        "name": "hardest:voice/block1"
+      }
+    ]
+  },
+  "voice.block2": {
+    "sounds": [
+      {
+        "name": "hardest:voice/block2"
+      }
+    ]
+  },
+  "voice.block3": {
+    "sounds": [
+      {
+        "name": "hardest:voice/block3"
+      }
+    ]
+  },
+  "voice.block4": {
+    "sounds": [
+      {
+        "name": "hardest:voice/block4"
+      }
+    ]
+  },
+  "voice.courier_bye": {
+    "sounds": [
+      {
+        "name": "hardest:voice/courier_bye"
+      }
+    ]
+  },
+  "voice.courier_hi": {
+    "sounds": [
+      {
+        "name": "hardest:voice/courier_hi"
+      }
+    ]
+  },
+  "voice.food1": {
+    "sounds": [
+      {
+        "name": "hardest:voice/food1"
+      }
+    ]
+  },
+  "voice.food2": {
+    "sounds": [
+      {
+        "name": "hardest:voice/food2"
+      }
+    ]
+  },
+  "voice.food3": {
+    "sounds": [
+      {
+        "name": "hardest:voice/food3"
+      }
+    ]
+  },
+  "voice.food4": {
+    "sounds": [
+      {
+        "name": "hardest:voice/food4"
+      }
+    ]
+  },
+  "voice.food5": {
+    "sounds": [
+      {
+        "name": "hardest:voice/food5"
+      }
+    ]
+  },
+  "voice.mom1": {
+    "sounds": [
+      {
+        "name": "hardest:voice/mom1"
+      }
+    ]
+  },
+  "voice.mom2": {
+    "sounds": [
+      {
+        "name": "hardest:voice/mom2"
+      }
+    ]
+  },
+  "voice.mom3": {
+    "sounds": [
+      {
+        "name": "hardest:voice/mom3"
+      }
+    ]
+  },
+  "voice.sneeze1": {
+    "sounds": [
+      {
+        "name": "hardest:voice/sneeze1"
+      }
+    ]
+  },
+  "voice.sneeze2": {
+    "sounds": [
+      {
+        "name": "hardest:voice/sneeze2"
+      }
+    ]
+  },
+  "voice.sneeze3": {
+    "sounds": [
+      {
+        "name": "hardest:voice/sneeze3"
+      }
+    ]
+  },
+  "voice.tax_angry": {
+    "sounds": [
+      {
+        "name": "hardest:voice/tax_angry"
+      }
+    ]
+  },
+  "voice.tax_death": {
+    "sounds": [
+      {
+        "name": "hardest:voice/tax_death"
+      }
+    ]
+  },
+  "voice.tax_empty": {
+    "sounds": [
+      {
+        "name": "hardest:voice/tax_empty"
+      }
+    ]
+  },
+  "voice.tax_greet": {
+    "sounds": [
+      {
+        "name": "hardest:voice/tax_greet"
+      }
+    ]
+  },
+  "voice.tax_receipt": {
+    "sounds": [
+      {
+        "name": "hardest:voice/tax_receipt"
+      }
+    ]
+  },
+  "voice.tax_take": {
+    "sounds": [
+      {
+        "name": "hardest:voice/tax_take"
+      }
+    ]
+  },
+  "voice.timber": {
+    "sounds": [
+      {
+        "name": "hardest:voice/timber"
+      }
+    ]
+  },
+  "voice.twin_hi": {
+    "sounds": [
+      {
+        "name": "hardest:voice/twin_hi"
+      }
+    ]
+  },
+  "sfx.ad_jingle": {
+    "sounds": [
+      {
+        "name": "hardest:sfx/ad_jingle"
+      }
+    ]
+  },
+  "sfx.beep": {
+    "sounds": [
+      {
+        "name": "hardest:sfx/beep"
+      }
+    ]
+  },
+  "sfx.blood_moon": {
+    "sounds": [
+      {
+        "name": "hardest:sfx/blood_moon"
+      }
+    ]
+  },
+  "sfx.boss_boom": {
+    "sounds": [
+      {
+        "name": "hardest:sfx/boss_boom"
+      }
+    ]
+  },
+  "sfx.cannon_shot": {
+    "sounds": [
+      {
+        "name": "hardest:sfx/cannon_shot"
+      }
+    ]
+  },
+  "sfx.captcha_fail": {
+    "sounds": [
+      {
+        "name": "hardest:sfx/captcha_fail"
+      }
+    ]
+  },
+  "sfx.captcha_ok": {
+    "sounds": [
+      {
+        "name": "hardest:sfx/captcha_ok"
+      }
+    ]
+  },
+  "sfx.cash": {
+    "sounds": [
+      {
+        "name": "hardest:sfx/cash"
+      }
+    ]
+  },
+  "sfx.courier_bell": {
+    "sounds": [
+      {
+        "name": "hardest:sfx/courier_bell"
+      }
+    ]
+  },
+  "sfx.crystal_rise": {
+    "sounds": [
+      {
+        "name": "hardest:sfx/crystal_rise"
+      }
+    ]
+  },
+  "sfx.dragon_inhale": {
+    "sounds": [
+      {
+        "name": "hardest:sfx/dragon_inhale"
+      }
+    ]
+  },
+  "sfx.dragon_phase": {
+    "sounds": [
+      {
+        "name": "hardest:sfx/dragon_phase"
+      }
+    ]
+  },
+  "sfx.gift_open": {
+    "sounds": [
+      {
+        "name": "hardest:sfx/gift_open"
+      }
+    ]
+  },
+  "sfx.glitch_long": {
+    "sounds": [
+      {
+        "name": "hardest:sfx/glitch_long"
+      }
+    ]
+  },
+  "sfx.glitch_short": {
+    "sounds": [
+      {
+        "name": "hardest:sfx/glitch_short"
+      }
+    ]
+  },
+  "sfx.goose_hiss": {
+    "sounds": [
+      {
+        "name": "hardest:sfx/goose_hiss"
+      }
+    ]
+  },
+  "sfx.goose_honk": {
+    "sounds": [
+      {
+        "name": "hardest:sfx/goose_honk_1"
+      },
+      {
+        "name": "hardest:sfx/goose_honk_2"
+      },
+      {
+        "name": "hardest:sfx/goose_honk_3"
+      }
+    ]
+  },
+  "sfx.lag_stutter": {
+    "sounds": [
+      {
+        "name": "hardest:sfx/lag_stutter"
+      }
+    ]
+  },
+  "sfx.laser_charge": {
+    "sounds": [
+      {
+        "name": "hardest:sfx/laser_charge"
+      }
+    ]
+  },
+  "sfx.meteor_fall": {
+    "sounds": [
+      {
+        "name": "hardest:sfx/meteor_fall"
+      }
+    ]
+  },
+  "sfx.mimic_chomp": {
+    "sounds": [
+      {
+        "name": "hardest:sfx/mimic_chomp_1"
+      },
+      {
+        "name": "hardest:sfx/mimic_chomp_2"
+      }
+    ]
+  },
+  "sfx.mimic_growl": {
+    "sounds": [
+      {
+        "name": "hardest:sfx/mimic_growl"
+      }
+    ]
+  },
+  "sfx.parachute": {
+    "sounds": [
+      {
+        "name": "hardest:sfx/parachute"
+      }
+    ]
+  },
+  "sfx.popup_close": {
+    "sounds": [
+      {
+        "name": "hardest:sfx/popup_close"
+      }
+    ]
+  },
+  "sfx.rewind": {
+    "sounds": [
+      {
+        "name": "hardest:sfx/rewind"
+      }
+    ]
+  },
+  "sfx.rumble": {
+    "sounds": [
+      {
+        "name": "hardest:sfx/rumble"
+      }
+    ]
+  },
+  "sfx.shockwave": {
+    "sounds": [
+      {
+        "name": "hardest:sfx/shockwave"
+      }
+    ]
+  },
+  "sfx.siren": {
+    "sounds": [
+      {
+        "name": "hardest:sfx/siren"
+      }
+    ]
+  },
+  "sfx.slam": {
+    "sounds": [
+      {
+        "name": "hardest:sfx/slam"
+      }
+    ]
+  },
+  "sfx.slap": {
+    "sounds": [
+      {
+        "name": "hardest:sfx/slap_1"
+      },
+      {
+        "name": "hardest:sfx/slap_2"
+      }
+    ]
+  },
+  "sfx.sniper_shot": {
+    "sounds": [
+      {
+        "name": "hardest:sfx/sniper_shot"
+      }
+    ]
+  },
+  "sfx.splat": {
+    "sounds": [
+      {
+        "name": "hardest:sfx/splat"
+      }
+    ]
+  },
+  "sfx.stamp": {
+    "sounds": [
+      {
+        "name": "hardest:sfx/stamp"
+      }
+    ]
+  },
+  "sfx.tiktok_swoosh": {
+    "sounds": [
+      {
+        "name": "hardest:sfx/tiktok_swoosh"
+      }
+    ]
+  },
+  "sfx.tiny_steps": {
+    "sounds": [
+      {
+        "name": "hardest:sfx/tiny_steps_1"
+      },
+      {
+        "name": "hardest:sfx/tiny_steps_2"
+      },
+      {
+        "name": "hardest:sfx/tiny_steps_3"
+      }
+    ]
+  },
+  "sfx.tree_creak": {
+    "sounds": [
+      {
+        "name": "hardest:sfx/tree_creak"
+      }
+    ]
+  },
+  "sfx.tree_fall": {
+    "sounds": [
+      {
+        "name": "hardest:sfx/tree_fall"
+      }
+    ]
+  },
+  "sfx.update_chime": {
+    "sounds": [
+      {
+        "name": "hardest:sfx/update_chime"
+      }
+    ]
+  },
+  "sfx.vortex": {
+    "sounds": [
+      {
+        "name": "hardest:sfx/vortex"
+      }
+    ]
+  },
+  "sfx.wasted": {
+    "sounds": [
+      {
+        "name": "hardest:sfx/wasted"
+      }
+    ]
+  },
+  "sfx.web_shot": {
+    "sounds": [
+      {
+        "name": "hardest:sfx/web_shot"
+      }
+    ]
+  },
+  "sfx.whoosh": {
+    "sounds": [
+      {
+        "name": "hardest:sfx/whoosh"
+      }
+    ]
+  },
+  "music.dragon": {
+    "sounds": [
+      {
+        "name": "hardest:music/dragon",
+        "stream": true
+      }
+    ]
+  }
+}

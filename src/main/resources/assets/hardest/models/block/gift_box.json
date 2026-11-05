@@ -1,0 +1,124 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "particle": "hardest:block/gift_box_side",
+    "side": "hardest:block/gift_box_side",
+    "top": "hardest:block/gift_box_top",
+    "bottom": "hardest:block/gift_box_bottom"
+  },
+  "elements": [
+    {
+      "from": [
+        1.5,
+        0,
+        1.5
+      ],
+      "to": [
+        14.5,
+        11,
+        14.5
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            1.5,
+            5,
+            14.5,
+            16
+          ],
+          "texture": "#side"
+        },
+        "south": {
+          "uv": [
+            1.5,
+            5,
+            14.5,
+            16
+          ],
+          "texture": "#side"
+        },
+        "east": {
+          "uv": [
+            1.5,
+            5,
+            14.5,
+            16
+          ],
+          "texture": "#side"
+        },
+        "west": {
+          "uv": [
+            1.5,
+            5,
+            14.5,
+            16
+          ],
+          "texture": "#side"
+        },
+        "down": {
+          "texture": "#bottom",
+          "cullface": "down"
+        },
+        "up": {
+          "texture": "#top"
+        }
+      }
+    },
+    {
+      "from": [
+        1,
+        11,
+        1
+      ],
+      "to": [
+        15,
+        14,
+        15
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            1,
+            0,
+            15,
+            3
+          ],
+          "texture": "#side"
+        },
+        "south": {
+          "uv": [
+            1,
+            0,
+            15,
+            3
+          ],
+          "texture": "#side"
+        },
+        "east": {
+          "uv": [
+            1,
+            0,
+            15,
+            3
+          ],
+          "texture": "#side"
+        },
+        "west": {
+          "uv": [
+            1,
+            0,
+            15,
+            3
+          ],
+          "texture": "#side"
+        },
+        "down": {
+          "texture": "#bottom"
+        },
+        "up": {
+          "texture": "#top"
+        }
+      }
+    }
+  ]
+}

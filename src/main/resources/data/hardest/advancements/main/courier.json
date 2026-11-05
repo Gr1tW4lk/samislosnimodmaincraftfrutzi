@@ -1,0 +1,19 @@
+{
+  "parent": "hardest:main/root",
+  "display": {
+    "icon": {
+      "item": "hardest:gift_box"
+    },
+    "title": "Распишитесь",
+    "description": "Получи посылку от крипера-курьера",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

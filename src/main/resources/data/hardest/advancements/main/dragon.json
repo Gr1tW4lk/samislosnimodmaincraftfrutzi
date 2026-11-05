@@ -1,0 +1,19 @@
+{
+  "parent": "hardest:main/root",
+  "display": {
+    "icon": {
+      "item": "minecraft:dragon_egg"
+    },
+    "title": "Самый сложный мод пройден",
+    "description": "Победи Пробуждённого Эндер-дракона",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

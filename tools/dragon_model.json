@@ -1,0 +1,2775 @@
+[
+ {
+  "name": "body",
+  "pivot": [
+   0.0,
+   4.0,
+   8.0
+  ],
+  "rot": [
+   0.0,
+   -0.0,
+   0.0
+  ],
+  "cubes": [
+   {
+    "name": "body.belly",
+    "origin": [
+     -10.0,
+     26.0,
+     -14.0
+    ],
+    "size": [
+     20.0,
+     2.0,
+     58.0
+    ],
+    "tag": "belly",
+    "share": null
+   },
+   {
+    "name": "body.crystal0",
+    "origin": [
+     -9.0,
+     -5.0,
+     -6.0
+    ],
+    "size": [
+     3.0,
+     3.0,
+     3.0
+    ],
+    "tag": "crystal",
+    "share": null
+   },
+   {
+    "name": "body.crystal1",
+    "origin": [
+     6.0,
+     -5.0,
+     -6.0
+    ],
+    "size": [
+     3.0,
+     3.0,
+     3.0
+    ],
+    "tag": "crystal",
+    "share": null
+   },
+   {
+    "name": "body.crystal2",
+    "origin": [
+     -10.0,
+     -5.0,
+     10.0
+    ],
+    "size": [
+     3.0,
+     3.0,
+     3.0
+    ],
+    "tag": "crystal",
+    "share": null
+   },
+   {
+    "name": "body.crystal3",
+    "origin": [
+     7.0,
+     -5.0,
+     10.0
+    ],
+    "size": [
+     3.0,
+     3.0,
+     3.0
+    ],
+    "tag": "crystal",
+    "share": null
+   },
+   {
+    "name": "body.crystal4",
+    "origin": [
+     -8.0,
+     -5.0,
+     26.0
+    ],
+    "size": [
+     3.0,
+     3.0,
+     3.0
+    ],
+    "tag": "crystal",
+    "share": null
+   },
+   {
+    "name": "body.crystal5",
+    "origin": [
+     5.0,
+     -5.0,
+     26.0
+    ],
+    "size": [
+     3.0,
+     3.0,
+     3.0
+    ],
+    "tag": "crystal",
+    "share": null
+   },
+   {
+    "name": "body.hip_l",
+    "origin": [
+     13.0,
+     4.0,
+     34.0
+    ],
+    "size": [
+     4.0,
+     3.0,
+     6.0
+    ],
+    "tag": "spike",
+    "share": null
+   },
+   {
+    "name": "body.hip_r",
+    "origin": [
+     -17.0,
+     4.0,
+     34.0
+    ],
+    "size": [
+     4.0,
+     3.0,
+     6.0
+    ],
+    "tag": "spike",
+    "share": null
+   },
+   {
+    "name": "body.main",
+    "origin": [
+     -14.0,
+     0.0,
+     -18.0
+    ],
+    "size": [
+     28.0,
+     26.0,
+     66.0
+    ],
+    "tag": "scale",
+    "share": null
+   },
+   {
+    "name": "body.plate0",
+    "origin": [
+     -10.0,
+     -3.0,
+     -14.0
+    ],
+    "size": [
+     20.0,
+     3.0,
+     12.0
+    ],
+    "tag": "plate",
+    "share": null
+   },
+   {
+    "name": "body.plate1",
+    "origin": [
+     -11.0,
+     -3.0,
+     0.0
+    ],
+    "size": [
+     22.0,
+     3.0,
+     14.0
+    ],
+    "tag": "plate",
+    "share": null
+   },
+   {
+    "name": "body.plate2",
+    "origin": [
+     -10.0,
+     -3.0,
+     16.0
+    ],
+    "size": [
+     20.0,
+     3.0,
+     12.0
+    ],
+    "tag": "plate",
+    "share": null
+   },
+   {
+    "name": "body.plate3",
+    "origin": [
+     -8.0,
+     -3.0,
+     30.0
+    ],
+    "size": [
+     16.0,
+     3.0,
+     12.0
+    ],
+    "tag": "plate",
+    "share": null
+   },
+   {
+    "name": "body.shoulder_l",
+    "origin": [
+     13.0,
+     2.0,
+     -12.0
+    ],
+    "size": [
+     4.0,
+     3.0,
+     6.0
+    ],
+    "tag": "spike",
+    "share": null
+   },
+   {
+    "name": "body.shoulder_r",
+    "origin": [
+     -17.0,
+     2.0,
+     -12.0
+    ],
+    "size": [
+     4.0,
+     3.0,
+     6.0
+    ],
+    "tag": "spike",
+    "share": null
+   },
+   {
+    "name": "body.spike0",
+    "origin": [
+     -1.5,
+     -12.0,
+     -12.0
+    ],
+    "size": [
+     3.0,
+     9.0,
+     8.0
+    ],
+    "tag": "spike",
+    "share": null
+   },
+   {
+    "name": "body.spike1",
+    "origin": [
+     -1.5,
+     -14.0,
+     2.0
+    ],
+    "size": [
+     3.0,
+     11.0,
+     9.0
+    ],
+    "tag": "spike",
+    "share": null
+   },
+   {
+    "name": "body.spike2",
+    "origin": [
+     -1.5,
+     -13.0,
+     18.0
+    ],
+    "size": [
+     3.0,
+     10.0,
+     8.0
+    ],
+    "tag": "spike",
+    "share": null
+   },
+   {
+    "name": "body.spike3",
+    "origin": [
+     -1.5,
+     -11.0,
+     32.0
+    ],
+    "size": [
+     3.0,
+     8.0,
+     8.0
+    ],
+    "tag": "spike",
+    "share": null
+   },
+   {
+    "name": "body.spike4",
+    "origin": [
+     -1.0,
+     -8.0,
+     44.0
+    ],
+    "size": [
+     2.0,
+     5.0,
+     6.0
+    ],
+    "tag": "spike",
+    "share": null
+   }
+  ],
+  "children": []
+ },
+ {
+  "name": "wing_l",
+  "pivot": [
+   14.0,
+   5.0,
+   0.0
+  ],
+  "rot": [
+   0.0,
+   -0.0,
+   -0.35
+  ],
+  "cubes": [
+   {
+    "name": "wing_l.bone",
+    "origin": [
+     0.0,
+     -5.0,
+     -5.0
+    ],
+    "size": [
+     64.0,
+     10.0,
+     10.0
+    ],
+    "tag": "bone",
+    "share": null
+   },
+   {
+    "name": "wing_l.skin",
+    "origin": [
+     0.0,
+     0.0,
+     3.0
+    ],
+    "size": [
+     64.0,
+     0.0,
+     64.0
+    ],
+    "tag": "membrane",
+    "share": null
+   },
+   {
+    "name": "wing_l.spike0",
+    "origin": [
+     14.0,
+     -8.0,
+     -2.0
+    ],
+    "size": [
+     3.0,
+     3.0,
+     3.0
+    ],
+    "tag": "spike",
+    "share": null
+   },
+   {
+    "name": "wing_l.spike1",
+    "origin": [
+     34.0,
+     -8.0,
+     -2.0
+    ],
+    "size": [
+     3.0,
+     3.0,
+     3.0
+    ],
+    "tag": "spike",
+    "share": null
+   },
+   {
+    "name": "wing_l.thumb",
+    "origin": [
+     58.0,
+     -9.0,
+     -9.0
+    ],
+    "size": [
+     6.0,
+     5.0,
+     5.0
+    ],
+    "tag": "claw",
+    "share": null
+   }
+  ],
+  "children": [
+   {
+    "name": "wing_l_strut0",
+    "pivot": [
+     24.0,
+     -0.0,
+     0.0
+    ],
+    "rot": [
+     0.0,
+     0.15,
+     0.0
+    ],
+    "cubes": [
+     {
+      "name": "wing_l_strut0.a",
+      "origin": [
+       -1.0,
+       -1.0,
+       0.0
+      ],
+      "size": [
+       2.0,
+       2.0,
+       62.0
+      ],
+      "tag": "bone",
+      "share": null
+     }
+    ],
+    "children": []
+   },
+   {
+    "name": "wing_l_strut1",
+    "pivot": [
+     48.0,
+     -0.0,
+     0.0
+    ],
+    "rot": [
+     0.0,
+     0.05,
+     0.0
+    ],
+    "cubes": [
+     {
+      "name": "wing_l_strut1.a",
+      "origin": [
+       -1.0,
+       -1.0,
+       0.0
+      ],
+      "size": [
+       2.0,
+       2.0,
+       62.0
+      ],
+      "tag": "bone",
+      "share": null
+     }
+    ],
+    "children": []
+   },
+   {
+    "name": "wing_l_tip",
+    "pivot": [
+     64.0,
+     0.0,
+     0.0
+    ],
+    "rot": [
+     0.0,
+     -0.0,
+     0.25
+    ],
+    "cubes": [
+     {
+      "name": "wing_l_tip.bone",
+      "origin": [
+       0.0,
+       -3.0,
+       -3.0
+      ],
+      "size": [
+       64.0,
+       6.0,
+       6.0
+      ],
+      "tag": "bone",
+      "share": null
+     },
+     {
+      "name": "wing_l_tip.hook",
+      "origin": [
+       60.0,
+       -3.0,
+       -7.0
+      ],
+      "size": [
+       8.0,
+       4.0,
+       4.0
+      ],
+      "tag": "claw",
+      "share": null
+     },
+     {
+      "name": "wing_l_tip.skin",
+      "origin": [
+       0.0,
+       0.0,
+       3.0
+      ],
+      "size": [
+       64.0,
+       0.0,
+       64.0
+      ],
+      "tag": "membrane_tip",
+      "share": null
+     }
+    ],
+    "children": [
+     {
+      "name": "wing_l_tip_strut0",
+      "pivot": [
+       20.0,
+       0.0,
+       0.0
+      ],
+      "rot": [
+       0.0,
+       0.2,
+       0.0
+      ],
+      "cubes": [
+       {
+        "name": "wing_l_tip_strut0.a",
+        "origin": [
+         -1.0,
+         -1.0,
+         0.0
+        ],
+        "size": [
+         2.0,
+         2.0,
+         58.0
+        ],
+        "tag": "bone",
+        "share": null
+       }
+      ],
+      "children": []
+     },
+     {
+      "name": "wing_l_tip_strut1",
+      "pivot": [
+       44.0,
+       0.0,
+       0.0
+      ],
+      "rot": [
+       0.0,
+       0.35,
+       0.0
+      ],
+      "cubes": [
+       {
+        "name": "wing_l_tip_strut1.a",
+        "origin": [
+         -1.0,
+         -1.0,
+         0.0
+        ],
+        "size": [
+         2.0,
+         2.0,
+         50.0
+        ],
+        "tag": "bone",
+        "share": null
+       }
+      ],
+      "children": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "wing_r",
+  "pivot": [
+   -14.0,
+   5.0,
+   0.0
+  ],
+  "rot": [
+   0.0,
+   -0.0,
+   0.35
+  ],
+  "cubes": [
+   {
+    "name": "wing_r.bone",
+    "origin": [
+     -64.0,
+     -5.0,
+     -5.0
+    ],
+    "size": [
+     64.0,
+     10.0,
+     10.0
+    ],
+    "tag": "bone",
+    "share": "wing_l.bone"
+   },
+   {
+    "name": "wing_r.skin",
+    "origin": [
+     -64.0,
+     0.0,
+     3.0
+    ],
+    "size": [
+     64.0,
+     0.0,
+     64.0
+    ],
+    "tag": "membrane",
+    "share": "wing_l.skin"
+   },
+   {
+    "name": "wing_r.spike0",
+    "origin": [
+     -17.0,
+     -8.0,
+     -2.0
+    ],
+    "size": [
+     3.0,
+     3.0,
+     3.0
+    ],
+    "tag": "spike",
+    "share": null
+   },
+   {
+    "name": "wing_r.spike1",
+    "origin": [
+     -37.0,
+     -8.0,
+     -2.0
+    ],
+    "size": [
+     3.0,
+     3.0,
+     3.0
+    ],
+    "tag": "spike",
+    "share": null
+   },
+   {
+    "name": "wing_r.thumb",
+    "origin": [
+     -64.0,
+     -9.0,
+     -9.0
+    ],
+    "size": [
+     6.0,
+     5.0,
+     5.0
+    ],
+    "tag": "claw",
+    "share": null
+   }
+  ],
+  "children": [
+   {
+    "name": "wing_r_strut0",
+    "pivot": [
+     -24.0,
+     -0.0,
+     0.0
+    ],
+    "rot": [
+     0.0,
+     -0.15,
+     0.0
+    ],
+    "cubes": [
+     {
+      "name": "wing_r_strut0.a",
+      "origin": [
+       -1.0,
+       -1.0,
+       0.0
+      ],
+      "size": [
+       2.0,
+       2.0,
+       62.0
+      ],
+      "tag": "bone",
+      "share": "wing_l_strut0.a"
+     }
+    ],
+    "children": []
+   },
+   {
+    "name": "wing_r_strut1",
+    "pivot": [
+     -48.0,
+     -0.0,
+     0.0
+    ],
+    "rot": [
+     0.0,
+     -0.05,
+     0.0
+    ],
+    "cubes": [
+     {
+      "name": "wing_r_strut1.a",
+      "origin": [
+       -1.0,
+       -1.0,
+       0.0
+      ],
+      "size": [
+       2.0,
+       2.0,
+       62.0
+      ],
+      "tag": "bone",
+      "share": "wing_l_strut1.a"
+     }
+    ],
+    "children": []
+   },
+   {
+    "name": "wing_r_tip",
+    "pivot": [
+     -64.0,
+     0.0,
+     0.0
+    ],
+    "rot": [
+     0.0,
+     -0.0,
+     -0.25
+    ],
+    "cubes": [
+     {
+      "name": "wing_r_tip.bone",
+      "origin": [
+       -64.0,
+       -3.0,
+       -3.0
+      ],
+      "size": [
+       64.0,
+       6.0,
+       6.0
+      ],
+      "tag": "bone",
+      "share": "wing_l_tip.bone"
+     },
+     {
+      "name": "wing_r_tip.hook",
+      "origin": [
+       -68.0,
+       -3.0,
+       -7.0
+      ],
+      "size": [
+       8.0,
+       4.0,
+       4.0
+      ],
+      "tag": "claw",
+      "share": null
+     },
+     {
+      "name": "wing_r_tip.skin",
+      "origin": [
+       -64.0,
+       0.0,
+       3.0
+      ],
+      "size": [
+       64.0,
+       0.0,
+       64.0
+      ],
+      "tag": "membrane_tip",
+      "share": "wing_l_tip.skin"
+     }
+    ],
+    "children": [
+     {
+      "name": "wing_r_tip_strut0",
+      "pivot": [
+       -20.0,
+       0.0,
+       0.0
+      ],
+      "rot": [
+       0.0,
+       -0.2,
+       -0.0
+      ],
+      "cubes": [
+       {
+        "name": "wing_r_tip_strut0.a",
+        "origin": [
+         -1.0,
+         -1.0,
+         0.0
+        ],
+        "size": [
+         2.0,
+         2.0,
+         58.0
+        ],
+        "tag": "bone",
+        "share": "wing_l_tip_strut0.a"
+       }
+      ],
+      "children": []
+     },
+     {
+      "name": "wing_r_tip_strut1",
+      "pivot": [
+       -44.0,
+       0.0,
+       0.0
+      ],
+      "rot": [
+       0.0,
+       -0.35,
+       -0.0
+      ],
+      "cubes": [
+       {
+        "name": "wing_r_tip_strut1.a",
+        "origin": [
+         -1.0,
+         -1.0,
+         0.0
+        ],
+        "size": [
+         2.0,
+         2.0,
+         50.0
+        ],
+        "tag": "bone",
+        "share": "wing_l_tip_strut1.a"
+       }
+      ],
+      "children": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "front_leg_l",
+  "pivot": [
+   14.0,
+   22.0,
+   2.0
+  ],
+  "rot": [
+   1.1,
+   -0.0,
+   0.0
+  ],
+  "cubes": [
+   {
+    "name": "front_leg_l.main",
+    "origin": [
+     -5.0,
+     -4.0,
+     -5.0
+    ],
+    "size": [
+     10.0,
+     24.0,
+     10.0
+    ],
+    "tag": "scale",
+    "share": null
+   },
+   {
+    "name": "front_leg_l.spike",
+    "origin": [
+     -1.0,
+     14.0,
+     5.0
+    ],
+    "size": [
+     2.0,
+     4.0,
+     5.0
+    ],
+    "tag": "spike",
+    "share": null
+   }
+  ],
+  "children": [
+   {
+    "name": "front_leg_l_tip",
+    "pivot": [
+     0.0,
+     20.0,
+     -1.0
+    ],
+    "rot": [
+     -0.6,
+     -0.0,
+     0.0
+    ],
+    "cubes": [
+     {
+      "name": "front_leg_l_tip.main",
+      "origin": [
+       -4.0,
+       -1.0,
+       -4.0
+      ],
+      "size": [
+       8.0,
+       24.0,
+       8.0
+      ],
+      "tag": "scale",
+      "share": null
+     }
+    ],
+    "children": [
+     {
+      "name": "front_foot_l",
+      "pivot": [
+       -0.0,
+       23.0,
+       0.0
+      ],
+      "rot": [
+       0.6,
+       -0.0,
+       0.0
+      ],
+      "cubes": [
+       {
+        "name": "front_foot_l.claw0",
+        "origin": [
+         -5.0,
+         1.0,
+         -17.0
+        ],
+        "size": [
+         2.0,
+         3.0,
+         5.0
+        ],
+        "tag": "claw",
+        "share": null
+       },
+       {
+        "name": "front_foot_l.claw1",
+        "origin": [
+         -1.0,
+         1.0,
+         -18.0
+        ],
+        "size": [
+         2.0,
+         3.0,
+         6.0
+        ],
+        "tag": "claw",
+        "share": null
+       },
+       {
+        "name": "front_foot_l.claw2",
+        "origin": [
+         3.0,
+         1.0,
+         -17.0
+        ],
+        "size": [
+         2.0,
+         3.0,
+         5.0
+        ],
+        "tag": "claw",
+        "share": null
+       },
+       {
+        "name": "front_foot_l.main",
+        "origin": [
+         -5.0,
+         0.0,
+         -12.0
+        ],
+        "size": [
+         10.0,
+         4.0,
+         16.0
+        ],
+        "tag": "scale",
+        "share": null
+       }
+      ],
+      "children": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "front_leg_r",
+  "pivot": [
+   -14.0,
+   22.0,
+   2.0
+  ],
+  "rot": [
+   1.1,
+   -0.0,
+   0.0
+  ],
+  "cubes": [
+   {
+    "name": "front_leg_r.main",
+    "origin": [
+     -5.0,
+     -4.0,
+     -5.0
+    ],
+    "size": [
+     10.0,
+     24.0,
+     10.0
+    ],
+    "tag": "scale",
+    "share": null
+   },
+   {
+    "name": "front_leg_r.spike",
+    "origin": [
+     -1.0,
+     14.0,
+     5.0
+    ],
+    "size": [
+     2.0,
+     4.0,
+     5.0
+    ],
+    "tag": "spike",
+    "share": null
+   }
+  ],
+  "children": [
+   {
+    "name": "front_leg_r_tip",
+    "pivot": [
+     0.0,
+     20.0,
+     -1.0
+    ],
+    "rot": [
+     -0.6,
+     -0.0,
+     0.0
+    ],
+    "cubes": [
+     {
+      "name": "front_leg_r_tip.main",
+      "origin": [
+       -4.0,
+       -1.0,
+       -4.0
+      ],
+      "size": [
+       8.0,
+       24.0,
+       8.0
+      ],
+      "tag": "scale",
+      "share": null
+     }
+    ],
+    "children": [
+     {
+      "name": "front_foot_r",
+      "pivot": [
+       0.0,
+       23.0,
+       0.0
+      ],
+      "rot": [
+       0.6,
+       -0.0,
+       0.0
+      ],
+      "cubes": [
+       {
+        "name": "front_foot_r.claw0",
+        "origin": [
+         -5.0,
+         1.0,
+         -17.0
+        ],
+        "size": [
+         2.0,
+         3.0,
+         5.0
+        ],
+        "tag": "claw",
+        "share": null
+       },
+       {
+        "name": "front_foot_r.claw1",
+        "origin": [
+         -1.0,
+         1.0,
+         -18.0
+        ],
+        "size": [
+         2.0,
+         3.0,
+         6.0
+        ],
+        "tag": "claw",
+        "share": null
+       },
+       {
+        "name": "front_foot_r.claw2",
+        "origin": [
+         3.0,
+         1.0,
+         -17.0
+        ],
+        "size": [
+         2.0,
+         3.0,
+         5.0
+        ],
+        "tag": "claw",
+        "share": null
+       },
+       {
+        "name": "front_foot_r.main",
+        "origin": [
+         -5.0,
+         0.0,
+         -12.0
+        ],
+        "size": [
+         10.0,
+         4.0,
+         16.0
+        ],
+        "tag": "scale",
+        "share": null
+       }
+      ],
+      "children": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "hind_leg_l",
+  "pivot": [
+   17.0,
+   16.0,
+   44.0
+  ],
+  "rot": [
+   0.9,
+   -0.0,
+   0.0
+  ],
+  "cubes": [
+   {
+    "name": "hind_leg_l.main",
+    "origin": [
+     -9.0,
+     -4.0,
+     -9.0
+    ],
+    "size": [
+     18.0,
+     34.0,
+     18.0
+    ],
+    "tag": "scale",
+    "share": null
+   },
+   {
+    "name": "hind_leg_l.spike",
+    "origin": [
+     -1.0,
+     2.0,
+     9.0
+    ],
+    "size": [
+     2.0,
+     8.0,
+     6.0
+    ],
+    "tag": "spike",
+    "share": null
+   }
+  ],
+  "children": [
+   {
+    "name": "hind_leg_l_tip",
+    "pivot": [
+     0.0,
+     32.0,
+     -4.0
+    ],
+    "rot": [
+     0.5,
+     -0.0,
+     0.0
+    ],
+    "cubes": [
+     {
+      "name": "hind_leg_l_tip.main",
+      "origin": [
+       -7.0,
+       -2.0,
+       0.0
+      ],
+      "size": [
+       14.0,
+       34.0,
+       14.0
+      ],
+      "tag": "scale",
+      "share": null
+     }
+    ],
+    "children": [
+     {
+      "name": "hind_foot_l",
+      "pivot": [
+       0.0,
+       33.0,
+       4.0
+      ],
+      "rot": [
+       0.7,
+       -0.0,
+       0.0
+      ],
+      "cubes": [
+       {
+        "name": "hind_foot_l.claw0",
+        "origin": [
+         -10.0,
+         2.0,
+         -27.0
+        ],
+        "size": [
+         3.0,
+         4.0,
+         5.0
+        ],
+        "tag": "claw",
+        "share": null
+       },
+       {
+        "name": "hind_foot_l.claw1",
+        "origin": [
+         -4.0,
+         2.0,
+         -28.0
+        ],
+        "size": [
+         3.0,
+         4.0,
+         6.0
+        ],
+        "tag": "claw",
+        "share": null
+       },
+       {
+        "name": "hind_foot_l.claw2",
+        "origin": [
+         2.0,
+         2.0,
+         -28.0
+        ],
+        "size": [
+         3.0,
+         4.0,
+         6.0
+        ],
+        "tag": "claw",
+        "share": null
+       },
+       {
+        "name": "hind_foot_l.claw3",
+        "origin": [
+         7.0,
+         2.0,
+         -27.0
+        ],
+        "size": [
+         3.0,
+         4.0,
+         5.0
+        ],
+        "tag": "claw",
+        "share": null
+       },
+       {
+        "name": "hind_foot_l.main",
+        "origin": [
+         -10.0,
+         0.0,
+         -22.0
+        ],
+        "size": [
+         20.0,
+         7.0,
+         26.0
+        ],
+        "tag": "scale",
+        "share": null
+       }
+      ],
+      "children": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "hind_leg_r",
+  "pivot": [
+   -17.0,
+   16.0,
+   44.0
+  ],
+  "rot": [
+   0.9,
+   -0.0,
+   0.0
+  ],
+  "cubes": [
+   {
+    "name": "hind_leg_r.main",
+    "origin": [
+     -9.0,
+     -4.0,
+     -9.0
+    ],
+    "size": [
+     18.0,
+     34.0,
+     18.0
+    ],
+    "tag": "scale",
+    "share": null
+   },
+   {
+    "name": "hind_leg_r.spike",
+    "origin": [
+     -1.0,
+     2.0,
+     9.0
+    ],
+    "size": [
+     2.0,
+     8.0,
+     6.0
+    ],
+    "tag": "spike",
+    "share": null
+   }
+  ],
+  "children": [
+   {
+    "name": "hind_leg_r_tip",
+    "pivot": [
+     0.0,
+     32.0,
+     -4.0
+    ],
+    "rot": [
+     0.5,
+     -0.0,
+     0.0
+    ],
+    "cubes": [
+     {
+      "name": "hind_leg_r_tip.main",
+      "origin": [
+       -7.0,
+       -2.0,
+       0.0
+      ],
+      "size": [
+       14.0,
+       34.0,
+       14.0
+      ],
+      "tag": "scale",
+      "share": null
+     }
+    ],
+    "children": [
+     {
+      "name": "hind_foot_r",
+      "pivot": [
+       0.0,
+       33.0,
+       4.0
+      ],
+      "rot": [
+       0.7,
+       -0.0,
+       0.0
+      ],
+      "cubes": [
+       {
+        "name": "hind_foot_r.claw0",
+        "origin": [
+         -10.0,
+         2.0,
+         -27.0
+        ],
+        "size": [
+         3.0,
+         4.0,
+         5.0
+        ],
+        "tag": "claw",
+        "share": null
+       },
+       {
+        "name": "hind_foot_r.claw1",
+        "origin": [
+         -4.0,
+         2.0,
+         -28.0
+        ],
+        "size": [
+         3.0,
+         4.0,
+         6.0
+        ],
+        "tag": "claw",
+        "share": null
+       },
+       {
+        "name": "hind_foot_r.claw2",
+        "origin": [
+         2.0,
+         2.0,
+         -28.0
+        ],
+        "size": [
+         3.0,
+         4.0,
+         6.0
+        ],
+        "tag": "claw",
+        "share": null
+       },
+       {
+        "name": "hind_foot_r.claw3",
+        "origin": [
+         7.0,
+         2.0,
+         -27.0
+        ],
+        "size": [
+         3.0,
+         4.0,
+         5.0
+        ],
+        "tag": "claw",
+        "share": null
+       },
+       {
+        "name": "hind_foot_r.main",
+        "origin": [
+         -10.0,
+         0.0,
+         -22.0
+        ],
+        "size": [
+         20.0,
+         7.0,
+         26.0
+        ],
+        "tag": "scale",
+        "share": null
+       }
+      ],
+      "children": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "head",
+  "pivot": [
+   0.0,
+   16.0,
+   -64.0
+  ],
+  "rot": [
+   -0.15,
+   -0.0,
+   0.0
+  ],
+  "cubes": [
+   {
+    "name": "head.brow",
+    "origin": [
+     -13.0,
+     -14.0,
+     -16.0
+    ],
+    "size": [
+     26.0,
+     5.0,
+     7.0
+    ],
+    "tag": "plate",
+    "share": null
+   },
+   {
+    "name": "head.crest0",
+    "origin": [
+     -1.0,
+     -17.0,
+     -10.0
+    ],
+    "size": [
+     2.0,
+     5.0,
+     4.0
+    ],
+    "tag": "spike",
+    "share": null
+   },
+   {
+    "name": "head.crest1",
+    "origin": [
+     -1.0,
+     -18.0,
+     -4.0
+    ],
+    "size": [
+     2.0,
+     6.0,
+     4.0
+    ],
+    "tag": "spike",
+    "share": null
+   },
+   {
+    "name": "head.crest2",
+    "origin": [
+     -1.0,
+     -16.0,
+     3.0
+    ],
+    "size": [
+     2.0,
+     4.0,
+     4.0
+    ],
+    "tag": "spike",
+    "share": null
+   },
+   {
+    "name": "head.eye_l",
+    "origin": [
+     6.0,
+     -9.0,
+     -16.5
+    ],
+    "size": [
+     5.0,
+     3.0,
+     1.0
+    ],
+    "tag": "eye",
+    "share": null
+   },
+   {
+    "name": "head.eye_r",
+    "origin": [
+     -11.0,
+     -9.0,
+     -16.5
+    ],
+    "size": [
+     5.0,
+     3.0,
+     1.0
+    ],
+    "tag": "eye",
+    "share": null
+   },
+   {
+    "name": "head.fang_l",
+    "origin": [
+     4.0,
+     4.0,
+     -40.0
+    ],
+    "size": [
+     2.0,
+     6.0,
+     2.0
+    ],
+    "tag": "teeth",
+    "share": null
+   },
+   {
+    "name": "head.fang_r",
+    "origin": [
+     -6.0,
+     4.0,
+     -40.0
+    ],
+    "size": [
+     2.0,
+     6.0,
+     2.0
+    ],
+    "tag": "teeth",
+    "share": null
+   },
+   {
+    "name": "head.nostril_l",
+    "origin": [
+     3.0,
+     -6.0,
+     -39.0
+    ],
+    "size": [
+     3.0,
+     2.0,
+     4.0
+    ],
+    "tag": "nostril",
+    "share": null
+   },
+   {
+    "name": "head.nostril_r",
+    "origin": [
+     -6.0,
+     -6.0,
+     -39.0
+    ],
+    "size": [
+     3.0,
+     2.0,
+     4.0
+    ],
+    "tag": "nostril",
+    "share": null
+   },
+   {
+    "name": "head.skull",
+    "origin": [
+     -12.0,
+     -12.0,
+     -14.0
+    ],
+    "size": [
+     24.0,
+     20.0,
+     24.0
+    ],
+    "tag": "scale",
+    "share": null
+   },
+   {
+    "name": "head.snout",
+    "origin": [
+     -8.0,
+     -4.0,
+     -40.0
+    ],
+    "size": [
+     16.0,
+     8.0,
+     26.0
+    ],
+    "tag": "snout",
+    "share": null
+   },
+   {
+    "name": "head.snout_ridge",
+    "origin": [
+     -3.0,
+     -6.0,
+     -38.0
+    ],
+    "size": [
+     6.0,
+     2.0,
+     22.0
+    ],
+    "tag": "plate",
+    "share": null
+   },
+   {
+    "name": "head.tooth_l0",
+    "origin": [
+     6.5,
+     4.0,
+     -37.0
+    ],
+    "size": [
+     1.0,
+     2.0,
+     2.0
+    ],
+    "tag": "teeth",
+    "share": null
+   },
+   {
+    "name": "head.tooth_l1",
+    "origin": [
+     6.5,
+     4.0,
+     -33.0
+    ],
+    "size": [
+     1.0,
+     2.0,
+     2.0
+    ],
+    "tag": "teeth",
+    "share": null
+   },
+   {
+    "name": "head.tooth_l2",
+    "origin": [
+     6.5,
+     4.0,
+     -29.0
+    ],
+    "size": [
+     1.0,
+     2.0,
+     2.0
+    ],
+    "tag": "teeth",
+    "share": null
+   },
+   {
+    "name": "head.tooth_l3",
+    "origin": [
+     6.5,
+     4.0,
+     -25.0
+    ],
+    "size": [
+     1.0,
+     2.0,
+     2.0
+    ],
+    "tag": "teeth",
+    "share": null
+   },
+   {
+    "name": "head.tooth_l4",
+    "origin": [
+     6.5,
+     4.0,
+     -21.0
+    ],
+    "size": [
+     1.0,
+     2.0,
+     2.0
+    ],
+    "tag": "teeth",
+    "share": null
+   },
+   {
+    "name": "head.tooth_l5",
+    "origin": [
+     6.5,
+     4.0,
+     -17.0
+    ],
+    "size": [
+     1.0,
+     2.0,
+     2.0
+    ],
+    "tag": "teeth",
+    "share": null
+   },
+   {
+    "name": "head.tooth_r0",
+    "origin": [
+     -7.5,
+     4.0,
+     -37.0
+    ],
+    "size": [
+     1.0,
+     2.0,
+     2.0
+    ],
+    "tag": "teeth",
+    "share": null
+   },
+   {
+    "name": "head.tooth_r1",
+    "origin": [
+     -7.5,
+     4.0,
+     -33.0
+    ],
+    "size": [
+     1.0,
+     2.0,
+     2.0
+    ],
+    "tag": "teeth",
+    "share": null
+   },
+   {
+    "name": "head.tooth_r2",
+    "origin": [
+     -7.5,
+     4.0,
+     -29.0
+    ],
+    "size": [
+     1.0,
+     2.0,
+     2.0
+    ],
+    "tag": "teeth",
+    "share": null
+   },
+   {
+    "name": "head.tooth_r3",
+    "origin": [
+     -7.5,
+     4.0,
+     -25.0
+    ],
+    "size": [
+     1.0,
+     2.0,
+     2.0
+    ],
+    "tag": "teeth",
+    "share": null
+   },
+   {
+    "name": "head.tooth_r4",
+    "origin": [
+     -7.5,
+     4.0,
+     -21.0
+    ],
+    "size": [
+     1.0,
+     2.0,
+     2.0
+    ],
+    "tag": "teeth",
+    "share": null
+   },
+   {
+    "name": "head.tooth_r5",
+    "origin": [
+     -7.5,
+     4.0,
+     -17.0
+    ],
+    "size": [
+     1.0,
+     2.0,
+     2.0
+    ],
+    "tag": "teeth",
+    "share": null
+   }
+  ],
+  "children": [
+   {
+    "name": "cheek2_l",
+    "pivot": [
+     12.0,
+     4.0,
+     -2.0
+    ],
+    "rot": [
+     -0.3,
+     0.9,
+     -0.0
+    ],
+    "cubes": [
+     {
+      "name": "cheek2_l.a",
+      "origin": [
+       -1.0,
+       -1.0,
+       0.0
+      ],
+      "size": [
+       2.0,
+       2.0,
+       7.0
+      ],
+      "tag": "horn",
+      "share": null
+     }
+    ],
+    "children": []
+   },
+   {
+    "name": "cheek2_r",
+    "pivot": [
+     -12.0,
+     4.0,
+     -2.0
+    ],
+    "rot": [
+     -0.3,
+     -0.9,
+     0.0
+    ],
+    "cubes": [
+     {
+      "name": "cheek2_r.a",
+      "origin": [
+       -1.0,
+       -1.0,
+       0.0
+      ],
+      "size": [
+       2.0,
+       2.0,
+       7.0
+      ],
+      "tag": "horn",
+      "share": null
+     }
+    ],
+    "children": []
+   },
+   {
+    "name": "cheek_l",
+    "pivot": [
+     12.0,
+     -2.0,
+     -6.0
+    ],
+    "rot": [
+     0.2,
+     0.7,
+     0.0
+    ],
+    "cubes": [
+     {
+      "name": "cheek_l.a",
+      "origin": [
+       -1.5,
+       -1.5,
+       0.0
+      ],
+      "size": [
+       3.0,
+       3.0,
+       10.0
+      ],
+      "tag": "horn",
+      "share": null
+     }
+    ],
+    "children": []
+   },
+   {
+    "name": "cheek_r",
+    "pivot": [
+     -12.0,
+     -2.0,
+     -6.0
+    ],
+    "rot": [
+     0.2,
+     -0.7,
+     0.0
+    ],
+    "cubes": [
+     {
+      "name": "cheek_r.a",
+      "origin": [
+       -1.5,
+       -1.5,
+       0.0
+      ],
+      "size": [
+       3.0,
+       3.0,
+       10.0
+      ],
+      "tag": "horn",
+      "share": null
+     }
+    ],
+    "children": []
+   },
+   {
+    "name": "horn_l",
+    "pivot": [
+     8.0,
+     -11.0,
+     -0.0
+    ],
+    "rot": [
+     0.55,
+     0.28,
+     0.0
+    ],
+    "cubes": [
+     {
+      "name": "horn_l.a",
+      "origin": [
+       -2.5,
+       -2.5,
+       0.0
+      ],
+      "size": [
+       5.0,
+       5.0,
+       16.0
+      ],
+      "tag": "horn",
+      "share": null
+     }
+    ],
+    "children": [
+     {
+      "name": "horn_l2",
+      "pivot": [
+       0.0,
+       -0.0,
+       15.0
+      ],
+      "rot": [
+       -0.55,
+       -0.0,
+       0.0
+      ],
+      "cubes": [
+       {
+        "name": "horn_l2.a",
+        "origin": [
+         -2.0,
+         -2.0,
+         0.0
+        ],
+        "size": [
+         4.0,
+         4.0,
+         12.0
+        ],
+        "tag": "horn",
+        "share": null
+       }
+      ],
+      "children": [
+       {
+        "name": "horn_l3",
+        "pivot": [
+         0.0,
+         -0.0,
+         11.0
+        ],
+        "rot": [
+         -0.6,
+         0.0,
+         0.0
+        ],
+        "cubes": [
+         {
+          "name": "horn_l3.a",
+          "origin": [
+           -1.0,
+           -1.0,
+           0.0
+          ],
+          "size": [
+           2.0,
+           2.0,
+           9.0
+          ],
+          "tag": "horn_tip",
+          "share": null
+         }
+        ],
+        "children": []
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "name": "horn_r",
+    "pivot": [
+     -8.0,
+     -11.0,
+     -0.0
+    ],
+    "rot": [
+     0.55,
+     -0.28,
+     -0.0
+    ],
+    "cubes": [
+     {
+      "name": "horn_r.a",
+      "origin": [
+       -2.5,
+       -2.5,
+       0.0
+      ],
+      "size": [
+       5.0,
+       5.0,
+       16.0
+      ],
+      "tag": "horn",
+      "share": null
+     }
+    ],
+    "children": [
+     {
+      "name": "horn_r2",
+      "pivot": [
+       -0.0,
+       -0.0,
+       15.0
+      ],
+      "rot": [
+       -0.55,
+       0.0,
+       -0.0
+      ],
+      "cubes": [
+       {
+        "name": "horn_r2.a",
+        "origin": [
+         -2.0,
+         -2.0,
+         0.0
+        ],
+        "size": [
+         4.0,
+         4.0,
+         12.0
+        ],
+        "tag": "horn",
+        "share": null
+       }
+      ],
+      "children": [
+       {
+        "name": "horn_r3",
+        "pivot": [
+         -0.0,
+         -0.0,
+         11.0
+        ],
+        "rot": [
+         -0.6,
+         -0.0,
+         -0.0
+        ],
+        "cubes": [
+         {
+          "name": "horn_r3.a",
+          "origin": [
+           -1.0,
+           -1.0,
+           0.0
+          ],
+          "size": [
+           2.0,
+           2.0,
+           9.0
+          ],
+          "tag": "horn_tip",
+          "share": null
+         }
+        ],
+        "children": []
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "name": "jaw",
+    "pivot": [
+     0.0,
+     4.0,
+     -12.0
+    ],
+    "rot": [
+     0.35,
+     -0.0,
+     0.0
+    ],
+    "cubes": [
+     {
+      "name": "jaw.beard0",
+      "origin": [
+       -1.0,
+       6.0,
+       -24.0
+      ],
+      "size": [
+       2.0,
+       5.0,
+       4.0
+      ],
+      "tag": "spike",
+      "share": null
+     },
+     {
+      "name": "jaw.beard1",
+      "origin": [
+       -1.0,
+       6.0,
+       -15.0
+      ],
+      "size": [
+       2.0,
+       5.0,
+       4.0
+      ],
+      "tag": "spike",
+      "share": null
+     },
+     {
+      "name": "jaw.beard2",
+      "origin": [
+       -1.0,
+       6.0,
+       -6.0
+      ],
+      "size": [
+       2.0,
+       5.0,
+       4.0
+      ],
+      "tag": "spike",
+      "share": null
+     },
+     {
+      "name": "jaw.fang_l",
+      "origin": [
+       4.0,
+       -4.0,
+       -28.0
+      ],
+      "size": [
+       2.0,
+       4.0,
+       2.0
+      ],
+      "tag": "teeth",
+      "share": null
+     },
+     {
+      "name": "jaw.fang_r",
+      "origin": [
+       -6.0,
+       -4.0,
+       -28.0
+      ],
+      "size": [
+       2.0,
+       4.0,
+       2.0
+      ],
+      "tag": "teeth",
+      "share": null
+     },
+     {
+      "name": "jaw.main",
+      "origin": [
+       -8.0,
+       0.0,
+       -28.0
+      ],
+      "size": [
+       16.0,
+       6.0,
+       28.0
+      ],
+      "tag": "jaw",
+      "share": null
+     },
+     {
+      "name": "jaw.tooth_l0",
+      "origin": [
+       6.0,
+       -2.0,
+       -26.0
+      ],
+      "size": [
+       1.0,
+       2.0,
+       2.0
+      ],
+      "tag": "teeth",
+      "share": null
+     },
+     {
+      "name": "jaw.tooth_l1",
+      "origin": [
+       6.0,
+       -2.0,
+       -22.0
+      ],
+      "size": [
+       1.0,
+       2.0,
+       2.0
+      ],
+      "tag": "teeth",
+      "share": null
+     },
+     {
+      "name": "jaw.tooth_l2",
+      "origin": [
+       6.0,
+       -2.0,
+       -18.0
+      ],
+      "size": [
+       1.0,
+       2.0,
+       2.0
+      ],
+      "tag": "teeth",
+      "share": null
+     },
+     {
+      "name": "jaw.tooth_l3",
+      "origin": [
+       6.0,
+       -2.0,
+       -14.0
+      ],
+      "size": [
+       1.0,
+       2.0,
+       2.0
+      ],
+      "tag": "teeth",
+      "share": null
+     },
+     {
+      "name": "jaw.tooth_l4",
+      "origin": [
+       6.0,
+       -2.0,
+       -10.0
+      ],
+      "size": [
+       1.0,
+       2.0,
+       2.0
+      ],
+      "tag": "teeth",
+      "share": null
+     },
+     {
+      "name": "jaw.tooth_r0",
+      "origin": [
+       -7.0,
+       -2.0,
+       -26.0
+      ],
+      "size": [
+       1.0,
+       2.0,
+       2.0
+      ],
+      "tag": "teeth",
+      "share": null
+     },
+     {
+      "name": "jaw.tooth_r1",
+      "origin": [
+       -7.0,
+       -2.0,
+       -22.0
+      ],
+      "size": [
+       1.0,
+       2.0,
+       2.0
+      ],
+      "tag": "teeth",
+      "share": null
+     },
+     {
+      "name": "jaw.tooth_r2",
+      "origin": [
+       -7.0,
+       -2.0,
+       -18.0
+      ],
+      "size": [
+       1.0,
+       2.0,
+       2.0
+      ],
+      "tag": "teeth",
+      "share": null
+     },
+     {
+      "name": "jaw.tooth_r3",
+      "origin": [
+       -7.0,
+       -2.0,
+       -14.0
+      ],
+      "size": [
+       1.0,
+       2.0,
+       2.0
+      ],
+      "tag": "teeth",
+      "share": null
+     },
+     {
+      "name": "jaw.tooth_r4",
+      "origin": [
+       -7.0,
+       -2.0,
+       -10.0
+      ],
+      "size": [
+       1.0,
+       2.0,
+       2.0
+      ],
+      "tag": "teeth",
+      "share": null
+     }
+    ],
+    "children": []
+   }
+  ]
+ },
+ {
+  "name": "neck",
+  "pivot": [
+   0.0,
+   20.0,
+   -17.0
+  ],
+  "rot": [
+   0.0,
+   -0.0,
+   0.0
+  ],
+  "cubes": [
+   {
+    "name": "neck.belly",
+    "origin": [
+     -5.0,
+     6.0,
+     -4.0
+    ],
+    "size": [
+     10.0,
+     1.0,
+     8.0
+    ],
+    "tag": "belly",
+    "share": null
+   },
+   {
+    "name": "neck.main",
+    "origin": [
+     -6.0,
+     -6.0,
+     -5.0
+    ],
+    "size": [
+     12.0,
+     12.0,
+     10.0
+    ],
+    "tag": "scale",
+    "share": null
+   },
+   {
+    "name": "neck.plate_l",
+    "origin": [
+     6.0,
+     -4.0,
+     -4.0
+    ],
+    "size": [
+     1.0,
+     8.0,
+     8.0
+    ],
+    "tag": "plate",
+    "share": null
+   },
+   {
+    "name": "neck.plate_r",
+    "origin": [
+     -7.0,
+     -4.0,
+     -4.0
+    ],
+    "size": [
+     1.0,
+     8.0,
+     8.0
+    ],
+    "tag": "plate",
+    "share": null
+   },
+   {
+    "name": "neck.spike",
+    "origin": [
+     -1.0,
+     -12.0,
+     -3.0
+    ],
+    "size": [
+     2.0,
+     6.0,
+     6.0
+    ],
+    "tag": "spike",
+    "share": null
+   }
+  ],
+  "children": []
+ },
+ {
+  "name": "tail_big",
+  "pivot": [
+   0.0,
+   10.0,
+   60.0
+  ],
+  "rot": [
+   -0.0,
+   -3.1416,
+   -0.0
+  ],
+  "cubes": [
+   {
+    "name": "tail_big.belly",
+    "origin": [
+     -5.0,
+     6.0,
+     -4.0
+    ],
+    "size": [
+     10.0,
+     1.0,
+     8.0
+    ],
+    "tag": "belly",
+    "share": null
+   },
+   {
+    "name": "tail_big.main",
+    "origin": [
+     -6.0,
+     -6.0,
+     -5.0
+    ],
+    "size": [
+     12.0,
+     12.0,
+     10.0
+    ],
+    "tag": "scale",
+    "share": null
+   },
+   {
+    "name": "tail_big.spike",
+    "origin": [
+     -1.0,
+     -11.0,
+     -3.0
+    ],
+    "size": [
+     2.0,
+     5.0,
+     6.0
+    ],
+    "tag": "spike",
+    "share": null
+   }
+  ],
+  "children": []
+ },
+ {
+  "name": "tail_small",
+  "pivot": [
+   0.0,
+   10.0,
+   120.0
+  ],
+  "rot": [
+   -0.0,
+   -3.1416,
+   -0.0
+  ],
+  "cubes": [
+   {
+    "name": "tail_small.main",
+    "origin": [
+     -4.0,
+     -4.0,
+     -5.0
+    ],
+    "size": [
+     8.0,
+     8.0,
+     10.0
+    ],
+    "tag": "scale",
+    "share": null
+   },
+   {
+    "name": "tail_small.spike",
+    "origin": [
+     -1.0,
+     -8.0,
+     -2.0
+    ],
+    "size": [
+     2.0,
+     4.0,
+     4.0
+    ],
+    "tag": "spike",
+    "share": null
+   }
+  ],
+  "children": []
+ },
+ {
+  "name": "tail_end",
+  "pivot": [
+   0.0,
+   10.0,
+   170.0
+  ],
+  "rot": [
+   -0.0,
+   -3.1416,
+   -0.0
+  ],
+  "cubes": [
+   {
+    "name": "tail_end.blade_h",
+    "origin": [
+     -9.0,
+     -1.0,
+     -16.0
+    ],
+    "size": [
+     18.0,
+     2.0,
+     8.0
+    ],
+    "tag": "blade",
+    "share": null
+   },
+   {
+    "name": "tail_end.blade_v",
+    "origin": [
+     -1.0,
+     -6.0,
+     -22.0
+    ],
+    "size": [
+     2.0,
+     12.0,
+     17.0
+    ],
+    "tag": "blade",
+    "share": null
+   },
+   {
+    "name": "tail_end.main",
+    "origin": [
+     -3.0,
+     -3.0,
+     -5.0
+    ],
+    "size": [
+     6.0,
+     6.0,
+     10.0
+    ],
+    "tag": "scale",
+    "share": null
+   },
+   {
+    "name": "tail_end.spike",
+    "origin": [
+     -1.0,
+     -9.0,
+     -4.0
+    ],
+    "size": [
+     2.0,
+     6.0,
+     6.0
+    ],
+    "tag": "spike",
+    "share": null
+   }
+  ],
+  "children": []
+ }
+]

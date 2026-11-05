@@ -1,0 +1,19 @@
+{
+  "parent": "hardest:main/root",
+  "display": {
+    "icon": {
+      "item": "minecraft:gravel"
+    },
+    "title": "Обвал",
+    "description": "Попади под обвал в шахте",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

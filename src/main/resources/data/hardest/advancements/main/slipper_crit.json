@@ -1,0 +1,19 @@
+{
+  "parent": "hardest:main/root",
+  "display": {
+    "icon": {
+      "item": "hardest:slipper"
+    },
+    "title": "Мамин гнев",
+    "description": "Нанеси критический удар тапком",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

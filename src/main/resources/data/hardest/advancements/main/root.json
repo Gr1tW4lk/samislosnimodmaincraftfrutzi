@@ -1,0 +1,18 @@
+{
+  "display": {
+    "icon": {
+      "item": "hardest:slipper"
+    },
+    "title": "Самый сложный мод",
+    "description": "Пройди майнкрафт. Если сможешь",
+    "background": "minecraft:textures/block/crying_obsidian.png",
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

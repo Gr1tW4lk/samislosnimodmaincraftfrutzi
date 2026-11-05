@@ -1,0 +1,20 @@
+{
+  "required": true,
+  "package": "com.hardest.mixin.client",
+  "compatibilityLevel": "JAVA_17",
+  "client": [
+    "BackgroundRendererMixin",
+    "BossBarHudMixin",
+    "CameraMixin",
+    "ClientPlayerEntityMixin",
+    "ClientWorldMixin",
+    "DeathScreenMixin",
+    "GameRendererAccessor",
+    "GameRendererMixin",
+    "KeyboardInputMixin",
+    "MouseMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

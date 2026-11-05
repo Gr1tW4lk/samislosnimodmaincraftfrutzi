@@ -1,0 +1,74 @@
+plugins {
+    id 'fabric-loom' version '1.6.12'
+}
+
+version = project.mod_version
+group = project.maven_group
+
+base {
+    archivesName = project.archives_base_name
+}
+
+loom {
+    splitEnvironmentSourceSets()
+
+    mods {
+        "hardest" {
+            sourceSet sourceSets.main
+            sourceSet sourceSets.client
+        }
+    }
+
+    runs {
+        client {
+            programArgs "--username", "Danik"
+        }
+        autotest {
+            inherit client
+            configName = "Autotest"
+            vmArg "-Dhardest.autotest=" + project.file("run/autotest.txt").absolutePath
+            programArgs "--width", "1280", "--height", "720"
+        }
+    }
+}
+
+repositories {
+}
+
+dependencies {
+    minecraft "com.mojang:minecraft:${project.minecraft_version}"
+    mappings "net.fabricmc:yarn:${project.yarn_mappings}:v2"
+    modImplementation "net.fabricmc:fabric-loader:${project.loader_version}"
+    modImplementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_version}"
+    // Fabric API внутри jar: игроку нужен только Fabric Loader и этот файл
+    include "net.fabricmc.fabric-api:fabric-api:${project.fabric_version}"
+
+    // проверка совместимости с Sodium/Iris: gradle runAutotest -PwithSodium=путь_к_папке_с_jar
+    if (project.hasProperty("withSodium")) {
+        modLocalRuntime fileTree(dir: project.property("withSodium"), include: "*.jar")
+    }
+}
+
+processResources {
+    inputs.property "version", project.version
+    filesMatching("fabric.mod.json") {
+        expand "version": project.version
+    }
+}
+
+tasks.withType(JavaCompile).configureEach {
+    it.options.release = 17
+    it.options.encoding = "UTF-8"
+}
+
+java {
+    sourceCompatibility = JavaVersion.VERSION_17
+    targetCompatibility = JavaVersion.VERSION_17
+}
+
+jar {
+    from("LICENSE") {
+        rename { "${it}_${project.base.archivesName.get()}" }
+    }
+    from("CREDITS.md")
+}

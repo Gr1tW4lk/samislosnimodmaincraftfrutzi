@@ -1,0 +1,13 @@
+.gradle/
+build/
+out/
+run/
+.idea/
+*.iml
+.vscode/
+bin/
+remappedSrc/
+__pycache__/
+*.pyc
+/tools/tts_cache/
+/tools/out/

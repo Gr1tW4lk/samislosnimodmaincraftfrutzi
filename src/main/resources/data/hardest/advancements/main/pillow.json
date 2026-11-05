@@ -1,0 +1,28 @@
+{
+  "parent": "hardest:main/root",
+  "display": {
+    "icon": {
+      "item": "hardest:goose_pillow"
+    },
+    "title": "Гусиный пух",
+    "description": "Сделай гусиную подушку и спи бесплатно",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "has": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "hardest:goose_pillow"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

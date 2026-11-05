@@ -1,0 +1,29 @@
+Звуки с freesound.org — все под лицензией CC0 (общественное достояние, атрибуция не требуется).
+
+goose_honk   https://freesound.org/s/740197/  Goose Trumpet (loud honk) — el_boss
+goose_honk   https://freesound.org/s/805297/  goose honk — jahjahjahjah
+goose_honk   https://freesound.org/s/754585/  geese overhead 20240915 — todorrobot
+goose_hiss   https://freesound.org/s/740195/  Goose Hiss — el_boss
+slap         https://freesound.org/s/264197/  face_slap.ogg — insanity54
+slap         https://freesound.org/s/539163/  Slap hit on the face or shoulder — khenshom
+cash         https://freesound.org/s/794903/  Cash Register (imitation) — modusmogulus
+stamp        https://freesound.org/s/448474/  es-stamp.wav — eddies2000
+courier_bell https://freesound.org/s/786690/  Doorbell from Inside of the House — srorie2
+splat        https://freesound.org/s/719131/  Splat 3 — sebastientate
+whoosh       https://freesound.org/s/342984/  Whoosh set 3 — sramse
+tiny_steps   https://freesound.org/s/494567/  Running on small gravel — 775noise
+siren        https://freesound.org/s/746302/  Police Siren — TitanKaempfer
+mimic_growl  https://freesound.org/s/869056/  Monster_Growls_Grunts_10 — SignatureSoundsOrg
+mimic_chomp  https://freesound.org/s/816237/  Crunch — qubodup
+mimic_chomp  https://freesound.org/s/398757/  apple - bite & chew — Anthousai
+sniper_shot  https://freesound.org/s/385785/  Rifle Shot (M1 Garand) — Rijam
+parachute    https://freesound.org/s/382675/  Parachute Opening — mricken1
+gift_open    https://freesound.org/s/26349/   partypopper.flac — Streety
+bug_skitter  https://freesound.org/s/706429/  Mealworms in a bag — theseventhmidnight
+slam         https://freesound.org/s/407301/  door metal heavy close impact — (CC0)
+
+Остальные звуки (глитчи, джинглы, синий экран, перемотка, музыка босса) синтезированы tools/gen_synth.py.
+Голоса — синтез речи edge-tts (Microsoft Neural voices) с обработкой ffmpeg, см. tools/gen_voice.py.
+tree_creak   https://freesound.org/s/590171/  Creaking in Room 8 — Greg_Surr
+tree_fall    https://freesound.org/s/469441/  016_ArbolCayendose-003 — aabbccddee123
+rumble       https://freesound.org/s/203281/  EARTHQUAKE OR DISTANT SPACE SHUTTLE RUMBLE — metrostock99
